@@ -42,6 +42,27 @@
 			t: "Your history. Yours alone",
 			d: "Pick up where you left off with your recently watched videos, playlists, and search history." 
 		},
+		{
+			src: "img/settings.png",
+			alt: "Configure Nativefy's settings",
+			h: 1020,
+			t: "Your experience. Your way",
+			d: "Personalize Nativefy to your preferences and make your viewing experience truly yours."
+		},
+		{
+			src: "img/channel.png",
+			alt: "Explore YouTube channels and their content",
+			h: 1020,
+			t: "Your favorite channels. All here",
+			d: "Explore channels, discover their latest videos, browse their content, and enjoy the full YouTube channel experience."
+		},
+		{
+			src: "img/liked_channels.png",
+			alt: "Your liked and saved YouTube channels",
+			h: 1020,
+			t: "Your channels. Always close",
+			d: "Keep your favorite channels in one place. Save the creators you love and easily revisit their content whenever you want."
+		},
 	];
 
 	var tabs = Array.prototype.slice.call(document.querySelectorAll(".tab"));
